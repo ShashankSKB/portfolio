@@ -101,43 +101,13 @@ export const backSkillsList = [
 
 export const projectsList = [
   {
-    label: "Coursera Clone",
-    imgSrc: "images/coursera.png",
-    src: "#",
+    label: "FrontendMasters Clone",
+    imgSrc: "images/frontend.png",
+    src: "https://anikett23.github.io/Fronend-Masters/",
     githubSrc: "https://github.com/vedascript/coursera-clone/tree/master",
     description: "An EdTech Platform with all MVP features",
-    stack: ["React", "Redux", "Express", "Mongoose", "Node.js", "Material-UI"],
+    stack: ["HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
   },
-  {
-    label: "Blog Platform",
-    imgSrc: "images/blog-site.png",
-    src: "",
-    githubSrc: "https://github.com/vedascript/blog-site",
-    description: "A Blog platform where user can publish,edit,delete his blogs",
-    stack: ["React", "Redux", "Express", "Mongoose", "Node.js", "CSS"],
-  },
-  {
-    label: "Expense Tracker",
-    imgSrc: "images/expenses.png",
-    src: "https://expenssetrackerr.netlify.app/",
-    githubSrc: "https://github.com/vedascript/expenseTracker",
-    description: "An expense tracker to track user's expenses",
-    stack: ["React", "React-Charts", "Material-UI"],
-  },
-  {
-    label: "Sudoku Solver",
-    imgSrc: "images/sudoku.png",
-    src: "https://sudokusolvervw.netlify.app",
-    githubSrc: "https://github.com/vedascript/sudokuSolver",
-    description: "A automated sudoku solver - an aaplication of backtraking",
-    stack: ["JavaScript", "HTML", "CSS"],
-  },
-  {
-    label: "Fathom Health Clone",
-    imgSrc: "images/fathom.png",
-    src: "https://fathomhealth.netlify.app",
-    githubSrc: "https://github.com/vedascript/fathomhealth-clone",
-    description: "A visual clone of Fathom Health completed in 3 days",
-    stack: ["JavaScript", "HTML", "CSS"],
-  },
+  
+  
 ];

@@ -35,7 +35,7 @@ const Home = ({ history }) => {
                   </span>
                   <br />
                   <span className="color-customBlue h1 font-weight-bold">
-                    I'm Vedansh
+                    I'm Shashank
                   </span>
                   <br />
                   <span className="color-customBlueLight h3">
@@ -54,7 +54,7 @@ const Home = ({ history }) => {
                     <a
                       target="_blank"
                       rel="noopener noreferrer"
-                      href="https://github.com/vedascript"
+                      href="https://github.com/ShashankSKB"
                       className="color-customBlue p-0 mr-3"
                     >
                       <FontAwesomeIcon size="2x" icon={faGithubSquare} />
@@ -62,7 +62,7 @@ const Home = ({ history }) => {
                     <a
                       target="_blank"
                       rel="noopener noreferrer"
-                      href="https://www.linkedin.com/in/vedanshwani"
+                      href="https://www.linkedin.com/in/shashank-borkar-017/"
                       className="color-customBlue p-0 mr-3"
                     >
                       <FontAwesomeIcon size="2x" icon={faLinkedin} />
@@ -71,7 +71,7 @@ const Home = ({ history }) => {
                   <br />
                   <Button
                     className="bg-customBlue font-weight-bold shadow border-0"
-                    onClick={() => window.open("/resume.pdf", "_blank")}
+                    onClick={() => window.open("/resume2.pdf", "_blank")}
                   >
                     Resume
                   </Button>
@@ -81,7 +81,7 @@ const Home = ({ history }) => {
             <div className="w-50 my-auto d-none d-md-block ">
               {/* <CodingSvg /> */}
               <Image
-                src="images/vedansh.jpg"
+                src="images/shashank.jpeg"
                 thumbnail
                 fluid
                 className="profilePic"

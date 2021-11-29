@@ -33,7 +33,7 @@ const CustomNav = () => {
           className="font-weight-bold s-logo text-white text-decoration-none"
           to="/"
         >
-          V
+          S
         </Link>
         <Navbar.Toggle className="border-0" aria-controls="basic-navbar-nav" />
         <Navbar.Collapse
