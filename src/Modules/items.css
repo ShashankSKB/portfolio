@@ -1,0 +1,14 @@
+#adjust img{
+
+    width: 120px;
+    height: 120px;
+
+    border: 2px solid whitesmoke;
+    padding: 5px;
+}
+
+
+#projects_border >div{
+    border: 2.5px solid whitesmoke;
+    padding: 10px;
+}

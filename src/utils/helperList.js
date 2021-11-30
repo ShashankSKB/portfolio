@@ -112,5 +112,13 @@ export const projectsList = [
     description: "Goibibo is India's leading online travel booking brand providing range of choice for hotels, flights, trains, bus and cars for travelers.",
     stack: ["HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
   },
+  {
+    label: "Star Wars Character API",
+    imgSrc: "images/starwars.png",
+    src: "https://drive.google.com/file/d/1Nyen6EHYg4GS3VY6t7X-Yx9GJR8uU_h4/view?usp=sharing",
+    githubSrc: "https://github.com/ShashankSKB/star_wars",
+    description: "Search for your favourite star wars characters to know more about them",
+    stack: ["HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
+  },
   
 ];

@@ -7,7 +7,7 @@ const Projects = () => {
   return (
     <>
       <CustomNav />
-      <Container className="mt-5">
+      <Container className="mt-5" id="projects_border">
         {/* <h2 className="color-customBlue">Weekend / hobby projects</h2> */}
         {projectsList.map((proj) => (
           <Fragment key={proj.label}>

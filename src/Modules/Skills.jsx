@@ -4,7 +4,7 @@ import { Container, Row } from "react-bootstrap";
 import IconCard from "../Components/IconCard";
 import { frontSkillsList, backSkillsList } from "../utils/helperList";
 import useWindowDimensions from "../utils/dimensionHelper";
-
+import "./items.css"
 const Skills = () => {
   const { width } = useWindowDimensions();
 
@@ -20,7 +20,7 @@ const Skills = () => {
   return (
     <>
       <CustomNav />
-      <Container className={`mt-5 ${imgContainerWidthClass}  `}>
+      <Container className={`mt-4 ${imgContainerWidthClass}  `} id="adjust">
         <h2 className={`color-customBlue text-boldest ${headingMargin}`}>
           Front End
         </h2>
@@ -31,7 +31,7 @@ const Skills = () => {
         </Row>
       </Container>
 
-      <Container className={`mt-5 ${imgContainerWidthClass}  `}>
+      <Container className={`mt-5 ${imgContainerWidthClass}  `} id="adjust">
         <h2 className={`color-customBlue text-boldest ${headingMargin}`}>
           Back End
         </h2>
