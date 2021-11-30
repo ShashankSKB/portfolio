@@ -51,10 +51,6 @@ export const frontSkillsList = [
     src: "https://img.icons8.com/color/480/000000/redux.png",
   },
   {
-    label: "Material UI",
-    src: "https://material-ui.com/static/logo_raw.svg",
-  },
-  {
     label: "Bootstrap",
     src: "https://i.ibb.co/zx0Tt9M/bootstrap.png",
   },
@@ -108,6 +104,13 @@ export const projectsList = [
     description: "An EdTech Platform with all MVP features",
     stack: ["HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
   },
-  
+  {
+    label: "GoIbibo Clone",
+    imgSrc: "images/goibibo.png",
+    src: "https://goibibi.herokuapp.com/",
+    githubSrc: "https://github.com/ShashankSKB/goibibo_clone",
+    description: "Goibibo is India's leading online travel booking brand providing range of choice for hotels, flights, trains, bus and cars for travelers.",
+    stack: ["HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
+  },
   
 ];
