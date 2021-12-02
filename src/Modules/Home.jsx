@@ -45,7 +45,11 @@ const Home = ({ history }) => {
                   <br />
                   <br />
                   <span className="color-customBlueLight h5">
-                    I enjoy developing websites and web applications.
+                
+                     I enjoy developing websites and web applications with a specialization in MERN stack.
+                     <div>
+                     In My free time I love to play Badmintion,video games and learning  about new technologies.
+                     </div>
                   </span>
                   <br />
                 </div>

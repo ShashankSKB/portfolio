@@ -102,7 +102,7 @@ const Contact = () => {
             className="contact-btns bg-customBlue shadow border-0 py-1 px-2"
             onClick={() =>
               window.open(
-                'mailto:me.vedanshwani@gmail.com?subject="Hello !"',
+                'mailto:shashankborkar16@gmail.com?subject="Hello !"',
                 "_blank"
               )
             }
