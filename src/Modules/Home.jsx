@@ -25,11 +25,11 @@ const Home = ({ history }) => {
           zIndex: -1,
         }}
       >
-        <Container className="h-100">
-          <div className="d-flex h-100">
-            <div className={`my-auto ${width > 760 ? "w-50" : ""}`}>
+        <Container className="h-100" >
+          <div className="d-flex h-100" >
+            <div className={`my-auto ${width > 760 ? "w-50" : ""}`} >
               <div>
-                <div className="">
+                <div className="" >
                   <span className="color-customBlueLight h5 font-weight-bold">
                     Hello !
                   </span>
@@ -47,9 +47,9 @@ const Home = ({ history }) => {
                   <span className="color-customBlueLight h5">
                 
                      I enjoy developing websites and web applications with a specialization in MERN stack.
-                     <div>
+                     {/* <div>
                      In My free time I love to play Badmintion,video games and learning  about new technologies.
-                     </div>
+                     </div> */}
                   </span>
                   <br />
                 </div>
@@ -91,8 +91,23 @@ const Home = ({ history }) => {
                 className="profilePic"
               />
             </div>
+            
           </div>
+          <div style={{width:"100%",height:"20px",margin:"10px auto",justifyContent:"center",display:"flex",flexDirection:"column",margin:"10px"}}>
+          <div className="color-customBlue h1 font-weight-bold" style={{textAlign:"center"}}>
+                    About Me
+                  </div>
+
+                  <div className="color-customBlueLight h5" >
+                
+                      I'm a Btech in Computer Engineering from college MESCOE,pune.
+                     <div style={{marginBottom:"50px",marginTop:"10px"}}>
+                     In My free time I love to play Badmintion,Video games ,Cooking and learning  about new technologies.
+                     </div>
+                  </div>
+        </div>
         </Container>
+        
       </div>
     </div>
   );
