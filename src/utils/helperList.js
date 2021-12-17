@@ -110,6 +110,14 @@ export const projectsList = [
     stack: ["HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
   },
   {
+    label: "TIC TAC TOE ",
+    imgSrc: "images/tictoe.png",
+    src: "https://tictactoe-skb.netlify.app/",
+    githubSrc: "https://github.com/ShashankSKB/tictoe",
+    description: "Play the popular tic tac toe game ",
+    stack: ["React", "CSS", "Node.js", "Javascript"],
+  },
+  {
     label: "Star Wars Character API",
     imgSrc: "images/starwars.png",
     src: "https://drive.google.com/file/d/1Nyen6EHYg4GS3VY6t7X-Yx9GJR8uU_h4/view?usp=sharing",
