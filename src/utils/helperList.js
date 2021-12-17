@@ -97,7 +97,7 @@ export const projectsList = [
     label: "FrontendMasters Clone",
     imgSrc: "images/frontend.png",
     src: "https://anikett23.github.io/Fronend-Masters/",
-    githubSrc: "https://github.com/vedascript/coursera-clone/tree/master",
+    githubSrc: "https://github.com/aniketT23/FrontEnd-Master-2.0",
     description: "An EdTech Platform with all MVP features",
     stack: ["HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
   },

@@ -93,20 +93,7 @@ const Home = ({ history }) => {
             </div>
             
           </div>
-          <div style={{width:"100%",height:"20px",margin:"10px auto",justifyContent:"center",display:"flex",flexDirection:"column",margin:"10px"}}>
-          <div className="color-customBlue h1 font-weight-bold" style={{textAlign:"center",marginBottom:"20px"}}>
-                    About Me
-                  </div>
-
-                  <div className="color-customBlueLight h5" >
-                
-                      I'm a Btech in Computer Engineering from college MESCOE,pune.
-                     <div style={{marginBottom:"50px",marginTop:"10px"}}>
-                       
-                     In My free time I love to play Badmintion,Video games ,Cooking and learning  about new technologies.
-                     </div>
-                  </div>
-        </div>
+          
         </Container>
         
       </div>

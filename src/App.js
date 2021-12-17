@@ -5,6 +5,7 @@ import Home from "./Modules/Home";
 import Skills from "./Modules/Skills";
 import Projects from "./Modules/Projects";
 import Contact from "./Modules/Contact";
+import About from "./Modules/About";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route exact path="/skills" component={Skills} />
         <Route exact path="/projects" component={Projects} />
         <Route exact path="/contact" component={Contact} />
+        <Route exact path="/about" component={About} />
       </Switch>
     </BrowserRouter>
   );

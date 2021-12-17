@@ -9,6 +9,10 @@ const navItems = [
     route: "/",
   },
   {
+    label: "About",
+    route: "/about",
+  },
+  {
     label: "Skills",
     route: "/skills",
   },
@@ -20,6 +24,7 @@ const navItems = [
     label: "Contact",
     route: "/contact",
   },
+  
 ];
 
 const CustomNav = () => {
