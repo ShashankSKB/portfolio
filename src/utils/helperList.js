@@ -102,6 +102,14 @@ export const projectsList = [
     stack: ["HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
   },
   {
+    label: "Policy Bazaar Clone",
+    imgSrc: "images/policyBazaaar.png",
+    src: "https://policybazaar-clone.netlify.app/",
+    githubSrc: "https://github.com/ShashankSKB/policyBazaar",
+    description: "Buy or renew two wheeler insurance online . Free Quotes from Top Insurers with Lowest Premiums in 20 Seconds",
+    stack: ["React","MongoDb","Material UI", "Javascript", "Express", "Mongoose", "Node.js", "CSS"],
+  },
+  {
     label: "GoIbibo Clone",
     imgSrc: "images/goibibo.png",
     src: "https://goibibi.herokuapp.com/",
@@ -125,5 +133,6 @@ export const projectsList = [
     description: "Search for your favourite star wars characters to know more about them",
     stack: ["HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
   },
+ 
   
 ];
