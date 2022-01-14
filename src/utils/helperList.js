@@ -109,14 +109,14 @@ export const projectsList = [
     description: "Buy or renew two wheeler insurance online . Free Quotes from Top Insurers with Lowest Premiums in 20 Seconds",
     stack: ["React","MongoDb","Material UI", "Javascript", "Express", "Mongoose", "Node.js", "CSS"],
   },
-  {
-    label: "GoIbibo Clone",
-    imgSrc: "images/goibibo.png",
-    src: "https://goibibi.herokuapp.com/",
-    githubSrc: "https://github.com/ShashankSKB/goibibo_clone",
-    description: "Goibibo is India's leading online travel booking brand providing range of choice for hotels, flights, trains, bus and cars for travelers.",
-    stack: ["HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
-  },
+  // {
+  //   label: "GoIbibo Clone",
+  //   imgSrc: "images/goibibo.png",
+  //   src: "https://goibibi.herokuapp.com/",
+  //   githubSrc: "https://github.com/ShashankSKB/goibibo_clone",
+  //   description: "Goibibo is India's leading online travel booking brand providing range of choice for hotels, flights, trains, bus and cars for travelers.",
+  //   stack: ["HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
+  // },
   {
     label: "TIC TAC TOE ",
     imgSrc: "images/tictoe.png",
